@@ -100,15 +100,7 @@ Real-world integration examples and demos.
 
 ## 🗺️ Roadmap
 
-### Q1 2025 ✅
-- [x] Core reconciliation API
-- [x] Exact and Fuzzy matching
-- [x] ML-based matching with embeddings
-- [x] LLM-based matching capabilities
-- [x] Python and TypeScript SDKs
-- [x] Public API documentation
-
-### Q2 2025 🚧
+### Q4 2025 🚧
 - [ ] Real-time webhook notifications
 - [ ] Advanced analytics dashboard
 - [ ] Custom matching rule builder
@@ -116,7 +108,7 @@ Real-world integration examples and demos.
 - [ ] Automated retraining pipeline
 - [ ] Multi-currency support enhancements
 
-### Q3 2025 📋
+### Q1 2026 📋
 - [ ] Manual review workflow UI
 - [ ] Audit report generation
 - [ ] Role-based access control (RBAC)
@@ -124,12 +116,12 @@ Real-world integration examples and demos.
 - [ ] GraphQL API
 - [ ] Mobile SDKs (iOS/Android)
 
-### Q4 2025 📋
-- [ ] On-premise deployment option
+### Q2 2026 📋
 - [ ] Advanced ML models (transformers)
 - [ ] Real-time streaming reconciliation
 - [ ] Integration marketplace
 - [ ] White-label solutions
+- [ ] Enhanced reporting and analytics
 
 ---
 
