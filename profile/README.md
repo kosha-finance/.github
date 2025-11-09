@@ -228,7 +228,6 @@ All our open-source projects are licensed under the **MIT License** - see indivi
 ### For Enterprises
 - **Multi-tenant** - Secure data isolation
 - **Scalable** - Process millions of transactions
-- **Flexible deployment** - Cloud or on-premise
 
 ---
 
