@@ -12,7 +12,7 @@
 
 Kosha Finance is revolutionizing financial reconciliation by combining advanced machine learning, natural language processing, and traditional matching algorithms to automate transaction matching with unprecedented accuracy.
 
-We believe that finance teams should spend their time on strategic analysis, not on tedious manual reconciliation. Our platform reduces reconciliation time from days to minutes while increasing accuracy from 80% to 99%+.
+We believe that finance teams should spend their time on strategic analysis, not on tedious manual reconciliation. Our platform reduces reconciliation time from days to minutes while increasing accuracy from 80% to 95%+.
 
 ---
 
@@ -156,10 +156,10 @@ Real-world integration examples and demos.
 
 | Metric | Value |
 |--------|-------|
-| **Average Match Accuracy** | 99.2% |
+| **Average Match Accuracy** | 95% |
 | **API Response Time (p95)** | <500ms |
 | **Batch Processing** | 10,000 txn/min |
-| **Uptime SLA** | 99.9% |
+| **Uptime SLA** | 95% |
 | **False Positive Rate** | <0.5% |
 
 ---
@@ -220,15 +220,14 @@ All our open-source projects are licensed under the **MIT License** - see indivi
 - **Open standards** - No vendor lock-in
 
 ### For Finance Teams
-- **99%+ accuracy** - Reduce manual review by 95%
+- **95%+ accuracy** - Reduce manual review by 90%
 - **10x faster** - Days to minutes
-- **Audit trail** - Complete transparency and compliance
+- **Audit trail** - Complete transparency
 - **Easy integration** - Works with existing systems
 
 ### For Enterprises
 - **Multi-tenant** - Secure data isolation
 - **Scalable** - Process millions of transactions
-- **Compliant** - SOC 2, GDPR ready
 - **Flexible deployment** - Cloud or on-premise
 
 ---
