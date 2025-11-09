@@ -221,7 +221,7 @@ All our open-source projects are licensed under the **MIT License** - see indivi
 
 ### For Finance Teams
 - **95%+ accuracy** - Reduce manual review by 90%
-- **10x faster** - Days to minutes
+- **20x faster** - Days to minutes
 - **Audit trail** - Complete transparency and compliance
 - **Easy integration** - Works with existing systems
 
