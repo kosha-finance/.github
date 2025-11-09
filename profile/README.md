@@ -123,6 +123,13 @@ Real-world integration examples and demos.
 - [ ] White-label solutions
 - [ ] Enhanced reporting and analytics
 
+### Q3 2026 📋
+- [ ] On-premise deployment option
+- [ ] Custom ML model training
+- [ ] Advanced fraud detection
+- [ ] Multi-region deployment
+- [ ] Enterprise support tiers
+
 ---
 
 ## 🎓 Use Cases
