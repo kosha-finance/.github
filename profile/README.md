@@ -156,7 +156,7 @@ Real-world integration examples and demos.
 
 | Metric | Value |
 |--------|-------|
-| **Average Match Accuracy** | 95% |
+| **Average Match Accuracy** | 95.5% |
 | **API Response Time (p95)** | <500ms |
 | **Batch Processing** | 10,000 txn/min |
 | **Uptime SLA** | 95% |
